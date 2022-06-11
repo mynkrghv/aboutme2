@@ -1,0 +1,20 @@
+h1 {
+	color: rgba(0, 200, 100, 0.8);
+	/*border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/	
+border: 5px solid purple;
+}
+
+h2{
+	color: rgba(0, 200, 100, 0.8);
+	border: dashed black 6px;
+}
+
+h4{
+	background: rgb(255, 100, 80);
+}
+
+body {
+	background: url(https://static.vecteezy.com/system/resources/previews/000/598/838/original/abstract-colorful-low-poly-vector-background-with-warm-gradient-futuristic-pattern.jpg);
+}
